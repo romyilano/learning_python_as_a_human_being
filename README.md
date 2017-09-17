@@ -13,4 +13,7 @@ My biggest takeway was that __people are human__ and computers are designed to b
 
 ## Chapters
 
-* Chapter 1: Acknowledge you're human
+* [Chapter 1: Acknowledge you're human](chapters/001:/README.md)
+* Chapter 2: Brushing up on a Busy Schedule
+* Chapter 3: Flashcardathon
+* Chapter 4: Mini Projects
