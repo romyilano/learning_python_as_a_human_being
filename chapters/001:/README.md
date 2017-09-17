@@ -1,4 +1,4 @@
-# [SELF HELP LEARNING PYTHON GUIDE](./README.md)
+# [SELF HELP LEARNING PYTHON GUIDE](../../README.md)
 
 ## Chapter 1 - Acknowledge you're human
 
